@@ -1,0 +1,7 @@
+avg_sentence_length_in_words
+avg_word_length_in_syllables
+avg_word_length_in_characters
+avg_num_1_syllable_words
+avg_num_3_or_more_syllable_words
+avg_num_6_or_more_character_words
+ratio_word_to_periods_and_colons

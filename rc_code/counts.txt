@@ -1,0 +1,10 @@
+num_sentences
+num_tokens
+num_tokens_no_punct
+num_syllables
+num_characters
+num_words_3_or_more_syllables
+num_words_1_syllable
+num_words_2_or_less_syllables
+num_words_6_or_more_characters
+num_periods_and_colons
